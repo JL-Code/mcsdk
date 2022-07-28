@@ -1,0 +1,22 @@
+{
+  "name": "mcsdk",
+  "version": "1.0.0",
+  "description": "开发工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JL-Code/mcsdk.git"
+  },
+  "keywords": [
+    "mcsdk"
+  ],
+  "author": "mecode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JL-Code/mcsdk/issues"
+  },
+  "homepage": "https://github.com/JL-Code/mcsdk#readme"
+}
